@@ -1,6 +1,6 @@
 # InstaStack
 
-<!-- [![npm version](https://img.shields.io/npm/v/instastack.svg?style=flat)](https://www.npmjs.com/package/instastack) -->
+[![npm version](https://img.shields.io/npm/v/instastack.svg?style=flat)](https://www.npmjs.com/package/instastack)
 
 [![license](https://img.shields.io/npm/l/instastack.svg)](https://github.com/sponge-bobs-square-pants/InstaStack/blob/master/LICENCE)
 
