@@ -1,7 +1,7 @@
 # InstaStack
 
 [![npm version](https://img.shields.io/npm/v/instastack.svg?style=flat)](https://www.npmjs.com/package/instastack)
-[![license](https://img.shields.io/npm/l/instastack.svg)](https://github.com/sponge-bobs-square-pants/InstaStack/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/instastack.svg)](https://github.com/sponge-bobs-square-pants/InstaStack/blob/master/LICENSE)
 
 InstaStack is a flexible React component for displaying metrics with animated, auto-formatting counters - perfect for dashboards, social media interfaces, and analytics displays.
 
