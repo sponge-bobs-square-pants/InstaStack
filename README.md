@@ -132,7 +132,7 @@ const items = [
 
 ## Examples
 
-Check out the [examples](https://github.com/sponge-bobs-square-pants/instastack/tree/main/examples) folder for more usage examples.
+Check out the [examples](https://github.com/sponge-bobs-square-pants/InstaStack/examples) folder for more usage examples.
 
 ## License
 
