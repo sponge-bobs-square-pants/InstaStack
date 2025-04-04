@@ -1,12 +1,11 @@
 # InstaStack
 
 [![npm version](https://img.shields.io/npm/v/instastack.svg?style=flat)](https://www.npmjs.com/package/instastack)
-
-[![license](https://img.shields.io/npm/l/instastack.svg)](https://github.com/sponge-bobs-square-pants/InstaStack/blob/master/LICENCE)
+[![license](https://img.shields.io/npm/l/instastack.svg)](https://github.com/sponge-bobs-square-pants/InstaStack/blob/main/LICENSE)
 
 InstaStack is a flexible React component for displaying metrics with animated, auto-formatting counters - perfect for dashboards, social media interfaces, and analytics displays.
 
-![InstaStack Demo](https://res.cloudinary.com/dfovdz88b/image/upload/dnd/tashtnmra38r4d3buqqg.gif)
+![InstaStack Demo](https://res.cloudinary.com/dfovdz88b/image/upload/v1/dnd/tashtnmra38r4d3buqqg.gif)
 
 ## Features
 
@@ -133,12 +132,4 @@ const items = [
 
 ## Examples
 
-Check out the [examples](https://github.com/sponge-bobs-square-pants/InstaStack/tree/master/src/Examples) folder for more usage examples.
-
-## License
-
-MIT © Parth Chawla
-
-## Author
-
-PARTH CHAWLA - [@polo15s](https://github.com/sponge-bobs-square-pants)
+Check out the [examples](https://github.com/sponge-bobs-square-pants/InstaStack/tree/main/src/Examples) folder for more
