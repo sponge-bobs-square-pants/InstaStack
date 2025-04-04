@@ -4,7 +4,7 @@
 
 InstaStack is a flexible React component for displaying metrics with animated, auto-formatting counters - perfect for dashboards, social media interfaces, and analytics displays.
 
-![InstaStack Demo](https://res.cloudinary.com/dfovdz88b/image/upload/v1743797317/dnd/jhbr4ljmzpeqlynxtqp6.gif)
+![InstaStack Demo](https://res.cloudinary.com/dfovdz88b/image/upload/v1743797960/dnd/fpfdkyrq2kdrrpyhconz.gif)
 
 ## Features
 
